@@ -15,4 +15,4 @@ const FriendList = props => {
 
     );
 }
-export default FriendList;
+export default FriendList; 
